@@ -1,0 +1,70 @@
+
+header{
+    border: 5px solid black;
+}
+.uno {
+    background-color: red;
+    display: flex;
+    border: 2px solid black;
+}
+.dos{
+    border: 2px solid black;
+}
+.div4 {
+    border: 5px solid orange;
+    background-color: yellow;
+}
+.div1 {
+    width: 20%;
+    flex-grow: 1;   
+}
+.div2 {
+    width: 60%;
+    flex-grow: 2;
+}
+.div3 {
+    width: 20%;
+    flex-grow: 1;
+}
+.section1 {
+    border: 5px solid grey; 
+}
+main {
+    display: flex;
+    border: 5px solid black; 
+}
+aside.section2 {
+    background-color: red;
+    width: 40%;
+    border-left: 2.5px solid black;
+}
+section.section2{
+    width: 60%;
+    border-right: 2.5px solid black;
+}
+aside.section2 article{
+    background-color: yellow;
+    border:5px solid red;
+}
+.filas {
+    display: flex;
+    border: 5px solid black;
+}
+.fila1{
+    width: 50%;
+}
+.fila2{
+    width: 50%;
+}
+section.section2 article{
+    border:5px solid darkslategrey;
+    background-color:blue;
+}
+section.section2 div{
+    background-color: aqua;
+    border:5px solid darkslategrey;
+}
+footer{
+    background-color: darkkhaki;
+    border: 5px solid black;
+}
